@@ -63,7 +63,7 @@
     .recipe {
         background-color: var(--White);
         margin: 0 auto;
-        width: calc(75% - 30px);
+        width: calc(100% - 30px);
     }
 
     .container {
